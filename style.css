@@ -1,0 +1,55 @@
+td{width: 220px ; height: 57px;}
+.logo{width: 10px;}
+html{ background-color:#6d6b58 }
+.come{background-color: #7e99aa; height: 3vw;}
+table{border: none; border-collapse:collapse}
+.inter{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+  }
+p{font-size: large;}
+.pque{height: 23px;}
+
+.sher{
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }  
+.butt{text-align: center;}
+#entrar{background-color: #0f518c; color: white;border-radius: 70%}
+#sair{background-color: #ed0049; color: white;border-radius: 70%}    
+#divBusca{
+    background-color:#E0EEEE;
+    border:solid 2px #5F9EA0;
+    border-radius:10px;
+    width:300px;
+    height:32px;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:191px;
+  }
+  
+  #btnBusca{
+    border:none;
+    float:left;
+    height:32px;
+    border-radius:0 7px 7px 0;
+    width:70px;
+    font-weight:bold;
+    background:#5F9EA0;
+  }
+  a:link { color: black; }
+  .final{background-color: #6C56BA;}
+  .fala{font-size: x-large  ; text-align: center; font-family: cursive;}
+

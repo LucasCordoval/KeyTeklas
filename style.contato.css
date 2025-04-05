@@ -1,0 +1,16 @@
+td{width: 220px ; height: 57px;}
+.logo{width: 10px;}
+#come{background-color: #7e99aa;}
+table{border: none; border-collapse:collapse}
+.inter{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+  }
+html{background-color: #8a2be2 ; background: linear-gradient(#8a2be2);
+  background: linear-gradient(to bottom, #2c122b, #6b2d6a, #30152f)}
+a:link { color: black; }
+p{font-size: large;}
+.final{background-color: #6C56BA;}

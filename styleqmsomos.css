@@ -1,0 +1,35 @@
+td{width: 220px ; height: 57px;}
+.logo{width: 10px;}
+#come{background-color: #7e99aa;}
+table{border: none; border-collapse:collapse}
+html{background-color: #69c5ff;}
+.inter{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+  }
+  .pque{height: 23px;}
+  .sher {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+  
+  .sher {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+  }
+  .text {
+    font-family: "IM Fell Great Primer SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+    text-align: center;
+  }
+  a:link { color: black; }
+  .final{background-color: #6C56BA;}
